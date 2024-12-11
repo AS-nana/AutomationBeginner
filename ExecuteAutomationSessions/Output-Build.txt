@@ -1,0 +1,7 @@
+﻿Build started at 2:26 PM...
+1>------ Build started: Project: ExecuteAutomationSessions, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>ExecuteAutomationSessions -> C:\Users\adsocaciu\source\repos\Automation\ExecuteAutomationSessions\bin\Debug\net8.0\ExecuteAutomationSessions.dll
+1>destinationfiles: C:\Users\adsocaciu\source\repos\Automation\ExecuteAutomationSessions\bin\Debug\net8.0\msedgedriver.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:26 PM and took 00.347 seconds ==========
